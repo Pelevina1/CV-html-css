@@ -61,17 +61,17 @@ a:visited {
     margin: auto;
     padding-top: 30px;
 }
-.bg-pink {
-    background: #ffede9;
+.bg-gray{
+    background: #b5a7ad;
 }
 .bg-nude {
-    background: #fff3fa;
+    background: #eae2e3;
 }
-.bg-yellow {
-    background: #fbf5d6;
+.bg-lilac {
+    background: #c6b3ce;
 }
-.bg-green {
-    background: #defae0;
+.bg-purple {
+    background: #80648E;
 }
 
 .card {
